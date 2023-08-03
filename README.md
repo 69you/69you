@@ -1,5 +1,17 @@
+<p align="center" style="font-size: 20px;">
+    Main Acc
+</p>
+
 <p align=center>
     <a herf="https://discord.com/users/878830839822176287"> <img src="https://lanyard.cnrad.dev/api/878830839822176287?&bg=141321&borderRadius=20px&hideTimestamp=true"> </a>
+</p>
+
+<p align="center" style="font-size: 20px;">
+    Alt Acc
+</p>
+
+<p align=center>
+    <a herf="https://discord.com/users/915809531865477180"> <img src="https://lanyard.cnrad.dev/api/915809531865477180?&bg=141321&borderRadius=20px&hideTimestamp=true"> </a>
 </p>
 
 <p align=center>
