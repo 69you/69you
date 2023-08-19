@@ -64,12 +64,12 @@
   <img src="https://osu-sig.vercel.app/card?user=69you&mode=std&lang=en&animation=true" alt="osu! stats">
 </div>
 
-###
+<!-- ###
 
 <div align="center">
   <h4>Maimai B50</h4>
   <img src="https://cdn.discordapp.com/attachments/895626824393060382/1142401190429196328/gunjbgwguqf5ax5s.png" height="750" alt="maimai b50">
-</div>
+</div> -->
 
 <!-- ###
 
