@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Simple Intro</h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=30&pause=300&color=D71DF7&multiline=true&width=750&height=200&lines=Hi%2C+this+is+Yuusuke+here;A+normal+vocational+high+school+student+from+Taiwan;My+main+programming+language+is+Python;But+still+works+on+other+languages+sometimes;Likes+to+code+or+playing+games+most+of+the+time" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=30&pause=300&color=D71DF7&multiline=true&width=750&height=300&lines=Hi%2C+this+is+Yuusuke+here;A+normal+vocational+high+school+student+from+Taiwan;My+main+programming+language+is+Python;But+still+works+on+other+languages+sometimes;Likes+to+code+or+playing+games+most+of+the+time" alt="Typing SVG" /></a>
 </div>
 
 ###
@@ -41,7 +41,7 @@
 
 ###
 
-<div align="center">
+<div align="center" display="inline">
   <img src="https://github-readme-stats.vercel.app/api?username=69you&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=69you&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
