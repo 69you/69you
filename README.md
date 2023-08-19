@@ -49,7 +49,7 @@
 
 ###
 
-<div align="center">
+<div align="center" display="inline">
   <h4>My Discord Accounts</h4>
   <img src="https://lanyard.cnrad.dev/api/878830839822176287?&bg=141321&borderRadius=20px&hideTimestamp=true" alt="main discord acc status">
   <img width="12" />
