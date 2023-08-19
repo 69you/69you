@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Simple Intro</h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=30&pause=300&color=D71DF7&multiline=true&width=750&height=300&lines=Hi%2C+this+is+Yuusuke+here;A+normal+vocational+high+school+student+from+Taiwan;My+main+programming+language+is+Python;But+still+works+on+other+languages+sometimes;Likes+to+code+or+playing+games+most+of+the+time" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=30&pause=300&color=D71DF7&multiline=true&width=750&height=200&lines=Hi%2C+this+is+Yuusuke+here;A+normal+vocational+high+school+student+from+Taiwan;My+main+programming+language+is+Python;But+still+works+on+other+languages+sometimes;Likes+to+code+or+playing+games+most+of+the+time" alt="Typing SVG" /></a>
 </div>
 
 ###
