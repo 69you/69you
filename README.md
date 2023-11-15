@@ -8,7 +8,7 @@
 <div align="center">
   <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My wife 👇</p>
   <img align="left" height="160" src="https://cdn.discordapp.com/attachments/1042775395507900458/1142376929790537748/rikka.gif"  />
-  <h4>Using & Learning Languages</h4>
+  <h4>Languages I use</h4>
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
@@ -17,19 +17,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
+<!--   <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
+  <img width="12" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
+  <img width="12" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
+<!--   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  /> -->
   <br>
   <h4>Code editor i use</h4>
   <a herf="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  /></a>
@@ -51,9 +51,9 @@
 
 <div align="center" display="inline">
   <h4>My Discord Accounts</h4>
-  <img src="https://lanyard.cnrad.dev/api/878830839822176287?&bg=141321&borderRadius=20px&hideTimestamp=true" alt="main discord acc status">
+  <img src="https://lanyard.cnrad.dev/api/878830839822176287?&bg=141321&borderRadius=20px&hideTimestamp=true&idleMessage=Maybe%20Not%20Doing%20Anything%20If%20I'm%20Online" alt="main discord acc status">
   <img width="12" />
-  <img src="https://lanyard.cnrad.dev/api/915809531865477180?&bg=141321&borderRadius=20px&hideTimestamp=true" alt="main discord acc status">
+  <img src="https://lanyard.cnrad.dev/api/915809531865477180?&bg=141321&borderRadius=20px&hideTimestamp=true&idleMessage=Maybe%20Not%20Doing%20Anything%20If%20I'm%20Online" alt="sub discord acc status">
 </div>
 
 
